@@ -6,7 +6,7 @@ WTForms==2.3.3
 email_validator==1.1.2
 Flask_Babel==2.0.0
 Babel==2.9.1
-Werkzeug==2.0.1
+Werkzeug==2.2.3
 itsdangerous==2.0.1
 psycopg2-binary==2.8.6
 click==7.1.2 # Solve dependency issues with never version of Flask and Jinja2
